@@ -1,0 +1,3 @@
+export const CHANGE_BUTTON = "CHANGE_BUTTON";
+
+export const ADMIN_REGISTER = "ADMIN_REGISTER";
